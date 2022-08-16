@@ -1,0 +1,42 @@
+[ 2022-01-08T02:49:59+08:00 ] 157.55.39.17 /public/static/home/js/respond.js
+ERR: 無法載入控制器:Public
+
+[ 2022-01-08T05:28:02+08:00 ] 114.119.149.43 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-08T07:28:30+08:00 ] 114.119.135.36 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-08T09:15:54+08:00 ] 54.36.149.51 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-08T09:25:34+08:00 ] 17.121.113.148 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-08T10:21:23+08:00 ] 185.191.171.37 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-08T11:13:57+08:00 ] 66.249.79.199 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-08T14:14:55+08:00 ] 54.36.148.95 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-08T19:40:06+08:00 ] 114.119.131.105 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-08T20:19:47+08:00 ] 185.191.171.14 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-08T21:21:55+08:00 ] 51.222.253.9 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-08T21:29:59+08:00 ] 114.119.137.174 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-08T22:41:25+08:00 ] 185.191.34.215 /cache.php
+ERR: Controller can't be loaded:Cache.php
+
+[ 2022-01-08T23:41:49+08:00 ] 66.249.79.199 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+

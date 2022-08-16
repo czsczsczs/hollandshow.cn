@@ -1,0 +1,100 @@
+[ 2022-03-14T14:18:11+08:00 ] ::1 /index.php/News/index.html
+ERR: 1054:Unknown column 'grade' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `hls_shop` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY grade desc,created desc LIMIT 4  
+
+[ 2022-03-14T14:18:16+08:00 ] ::1 /index.php/News/index.html
+ERR: 1054:Unknown column 'grade' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `hls_shop` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY grade desc,created desc LIMIT 4  
+
+[ 2022-03-14T14:18:38+08:00 ] ::1 /index.php/Index/index.html
+ERR: 1054:Unknown column 'grade' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `hls_shop` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY grade desc,created desc LIMIT 4  
+
+[ 2022-03-14T14:18:41+08:00 ] ::1 /index.php/Media/index.html
+ERR: 1054:Unknown column 'grade' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `hls_shop` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY grade desc,created desc LIMIT 4  
+
+[ 2022-03-14T14:18:45+08:00 ] ::1 /index.php/Shop/categroy/shoptype/discount.html
+ERR: 1054:Unknown column 'grade' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `hls_shop` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY grade desc,created desc LIMIT 4  
+
+[ 2022-03-14T14:19:26+08:00 ] ::1 /index.php/Active/index.html
+ERR: 1054:Unknown column 'grade' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `hls_shop` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY grade desc,created desc LIMIT 4  
+
+[ 2022-03-14T14:24:33+08:00 ] ::1 /index.php/News/index.html
+ERR: 1054:Unknown column 'grade' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `hls_shop` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY grade desc,created desc LIMIT 4  
+
+[ 2022-03-14T14:48:00+08:00 ] ::1 /index.php/Index/index.html
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T14:48:03+08:00 ] ::1 /index.php/Index/index.html
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T14:48:08+08:00 ] ::1 /index.php/Index/index.html
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T14:48:29+08:00 ] ::1 /index.php/Index/index.html
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T14:57:03+08:00 ] ::1 /index.php/Index/index.html
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T14:57:14+08:00 ] ::1 /index.php/Index/index.html
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:07:16+08:00 ] 10.0.0.199 /index.php/Index/index.html
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:10:59+08:00 ] 10.0.0.199 /index.php/Index/index.html
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:11:01+08:00 ] 10.0.0.199 /index.php/Index/index.html
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:11:05+08:00 ] 10.0.0.199 /index.php/Index/index.html
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:11:09+08:00 ] 10.0.0.199 /index.php/Index/index.html
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:12:50+08:00 ] 10.0.0.199 /index.php/Index/index.html
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:14:17+08:00 ] 10.0.0.199 /
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:31:48+08:00 ] 10.0.0.199 /
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indeHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:32:49+08:00 ] 10.0.0.199 /
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indexHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:35:38+08:00 ] 10.0.0.199 /
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indexHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:42:16+08:00 ] 10.0.0.199 /
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indexHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:42:18+08:00 ] 10.0.0.199 /
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indexHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:42:23+08:00 ] 10.0.0.199 /
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indexHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:42:27+08:00 ] 10.0.0.199 /
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indexHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:45:35+08:00 ] 10.0.0.199 /
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indexHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:46:28+08:00 ] 10.0.0.199 /
+ERR: Too few arguments to function Home\Model\StreetHistoryModel::indexHistory(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 77 and exactly 2 expected
+
+[ 2022-03-14T15:48:33+08:00 ] 10.0.0.199 /
+ERR: Too few arguments to function Home\Model\ShopModel::indexShop(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 83 and exactly 2 expected
+
+[ 2022-03-14T15:48:36+08:00 ] 10.0.0.199 /
+ERR: Too few arguments to function Home\Model\ShopModel::indexShop(), 1 passed in D:\pengMode\hollandshow\App\Home\Controller\IndexController.class.php on line 83 and exactly 2 expected
+

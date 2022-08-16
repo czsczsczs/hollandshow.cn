@@ -1,0 +1,51 @@
+[ 2022-01-02T01:15:54+08:00 ] 54.36.148.38 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-02T02:19:13+08:00 ] 54.36.148.165 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-02T02:35:58+08:00 ] 114.119.130.91 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-02T06:52:59+08:00 ] 66.249.79.194 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-02T07:53:49+08:00 ] 185.191.171.42 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-02T11:02:07+08:00 ] 17.121.113.87 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-02T12:05:35+08:00 ] 47.102.209.210 /explicit_not_exist_path
+ERR: 無法載入控制器:Explicit_not_exist_path
+
+[ 2022-01-02T12:05:38+08:00 ] 47.102.209.210 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-02T12:05:38+08:00 ] 47.102.209.210 /index.php/explicit_not_exist_path
+ERR: 無法載入控制器:Explicit_not_exist_path
+
+[ 2022-01-02T12:05:38+08:00 ] 47.102.209.210 /static/.gitignore
+ERR: 無法載入控制器:Static
+
+[ 2022-01-02T12:05:38+08:00 ] 47.102.209.210 /cgi-bin/printenv.pl
+ERR: 無法載入控制器:Cgi-bin
+
+[ 2022-01-02T12:05:38+08:00 ] 47.102.209.210 /phpMyAdmin/
+ERR: 無法載入控制器:PhpMyAdmin
+
+[ 2022-01-02T12:05:38+08:00 ] 47.102.209.210 /phpmyadmin/
+ERR: 無法載入控制器:Phpmyadmin
+
+[ 2022-01-02T12:05:39+08:00 ] 47.102.209.210 /wcm/
+ERR: 無法載入控制器:Wcm
+
+[ 2022-01-02T14:28:37+08:00 ] 51.222.253.2 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-02T15:29:28+08:00 ] 51.222.253.4 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-02T18:38:22+08:00 ] 114.119.149.2 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+

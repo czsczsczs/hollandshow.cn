@@ -1,0 +1,47 @@
+[ 2021-08-31T23:55:22+08:00 ] 54.36.148.45 /Media/detail/id/28.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001925s ]
+SQL: SHOW COLUMNS FROM `hls_active` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `hls_active` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY created desc LIMIT 3   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `hls_news` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `hls_news` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY created desc LIMIT 3   [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `hls_media` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `hls_media` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY created desc LIMIT 3   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `hls_media2` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `hls_media2` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY created desc LIMIT 3   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `hls_street_history` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `hls_street_history` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY rand() LIMIT 1   [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `hls_shop` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY rand() LIMIT 1   [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `hls_posts` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `hls_posts` WHERE `deleted` IS NULL AND `status` = 'published' ORDER BY rand() LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `hls_media` WHERE `id` = 28 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `id`,`title` FROM `hls_media` WHERE `deleted` IS NULL AND `status` = 'published' AND `id` > '28' ORDER BY id LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `id`,`title` FROM `hls_media` WHERE `deleted` IS NULL AND `status` = 'published' AND `id` < '28' ORDER BY id desc LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: images /home/www/hollandshow.cn/App/Home/Controller/MediaController.class.php 第 96 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000710s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000839s ]
+NOTIC: [8] Undefined variable: page /home/www/hollandshow.cn/App/Runtime/Cache/Home/cf4e76b25a74c8622ab6ee0ea33f6d42.php 第 263 行.
+NOTIC: [8] Use of undefined constant Media - assumed 'Media' /home/www/hollandshow.cn/App/Runtime/Cache/Home/cf4e76b25a74c8622ab6ee0ea33f6d42.php 第 283 行.
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' /home/www/hollandshow.cn/App/Runtime/Cache/Home/cf4e76b25a74c8622ab6ee0ea33f6d42.php 第 283 行.
+NOTIC: [2] Division by zero /home/www/hollandshow.cn/App/Runtime/Cache/Home/cf4e76b25a74c8622ab6ee0ea33f6d42.php 第 283 行.
+NOTIC: [8] Use of undefined constant Media - assumed 'Media' /home/www/hollandshow.cn/App/Runtime/Cache/Home/cf4e76b25a74c8622ab6ee0ea33f6d42.php 第 288 行.
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' /home/www/hollandshow.cn/App/Runtime/Cache/Home/cf4e76b25a74c8622ab6ee0ea33f6d42.php 第 288 行.
+NOTIC: [2] Division by zero /home/www/hollandshow.cn/App/Runtime/Cache/Home/cf4e76b25a74c8622ab6ee0ea33f6d42.php 第 288 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050445s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050550s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000966s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+

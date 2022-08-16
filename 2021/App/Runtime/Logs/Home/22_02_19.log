@@ -1,0 +1,48 @@
+[ 2022-02-19T01:00:44+08:00 ] 66.249.68.34 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-02-19T01:14:51+08:00 ] 54.36.148.110 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-02-19T02:44:47+08:00 ] 17.121.115.15 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-02-19T03:37:09+08:00 ] 207.46.13.234 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-02-19T04:05:06+08:00 ] 20.111.38.157 /.git/config
+ERR: 無法載入控制器:.git
+
+[ 2022-02-19T05:43:06+08:00 ] 51.222.253.18 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-02-19T06:37:28+08:00 ] 138.246.253.24 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-02-19T07:16:19+08:00 ] 185.191.171.23 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-02-19T08:44:45+08:00 ] 42.193.200.167 /xmlrpc.php
+ERR: 無法載入控制器:Xmlrpc.php
+
+[ 2022-02-19T10:46:29+08:00 ] 2.56.56.111 /wp-includes/css/wp-config.php
+ERR: Controller can't be loaded:Wp-includes
+
+[ 2022-02-19T13:11:00+08:00 ] 114.119.141.83 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-02-19T13:42:49+08:00 ] 66.249.68.39 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-02-19T13:48:18+08:00 ] 51.222.253.19 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-02-19T18:08:19+08:00 ] 207.46.13.234 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-02-19T20:32:44+08:00 ] 185.191.34.215 /wp-content/plugins/background-image-cropper/accesson.php
+ERR: Controller can't be loaded:Wp-content
+
+[ 2022-02-19T22:52:28+08:00 ] 20.111.38.157 /.git/config
+ERR: 無法載入控制器:.git
+

@@ -1,0 +1,171 @@
+<include file="common/header" />
+<!--=== End Header ===-->
+<style>
+    .ji {
+        width: 66px;
+    }
+
+    .newul {
+        padding: 0;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        top: 0;
+    }
+
+    .breadcrumbs {
+        height: auto;
+    }
+
+    .container {
+        padding: 0 !important;
+    }
+
+    .thumb {
+        height: 1000px;
+        overflow-y: auto;
+    }
+
+    .thumb li {
+        width: 100%;
+        margin-right: 0;
+    }
+
+
+
+    .thumbnail-img .ppp img {
+        height: auto;
+    }
+
+    .thumbnail-img .ppp {
+        margin: 0;
+    }
+
+    .thumbnail-img .ppp a {
+        text-align: right;
+    }
+
+    .thumbnail-img .ppp a:hover {
+        color: #385A9F;
+    }
+
+    .thumbnail-img h3 {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+    }
+
+    .thumbnail-img h3 a {
+        font-size: 20px;
+        text-indent: 2em;
+
+    }
+
+    .thumb li {
+        border-bottom: 1px solid #c2c2c2;
+        padding-bottom: 20px;
+    }
+
+    .thumb li:hover {
+        box-shadow: 0 0 8px #ddd;
+    }
+    .recent-work img {
+    height: auto !important;
+    }
+    @media screen and (min-width: 767px){
+			.thumb::-webkit-scrollbar-thumb {
+			border-radius: 10px;
+			box-shadow: inset 0 0 5px rgb(0 0 0 / 10%);
+			background: #d3d3d3;
+
+		}
+		.thumb::-webkit-scrollbar {
+					width: 8px; 
+				 height: 1px;
+			}
+            .thumb{
+                padding: 0;
+            }
+		}
+        @media screen and (max-width: 768px){
+			.thumbmode .thumb-img {
+                height: auto;
+                
+            }
+		}
+</style>
+<!--=== Breadcrumbs ===-->
+<div class="breadcrumbs margin-bottom-40">
+    <div class="container">
+        <!-- <h1 class="color-green pull-left">Portfolio</h1> -->
+        <ul class="pull-left breadcrumb newul">
+            <li><img class="ji" src="/Public/Static/Home/img/ji.png" /></li>
+            <li><a href="index.html">首頁</a> <span class="divider">/</span></li>
+            <li class="active" style="color: #555;">史話街道</li>
+        </ul>
+    </div>
+    <!--/container-->
+</div>
+<!--/breadcrumbs-->
+<!--=== End Breadcrumbs ===-->
+
+<!--=== Content Part ===-->
+<div class="container" style="padding: 0;">
+    <div class="row-fluid">
+        <div class="span9" id="w">
+            <!-- <div class="sort" id="sort">
+				<ul class="unstyled inline">
+                	<li><a href="#" class="all selected">全部</a></li> -->
+            <!-- <volist name="street_list" id="street">
+                	   <li><a href="#" class="street{$street['id']}">{$street['name']}</a></li>
+                	</volist> -->
+            <!--     </ul>
+            </div> -->
+
+            <ul class="portfolio recent-work clearfix thumb newindepod">
+                <volist name="list" id="row">
+                    <li data-id="id-1" class="street{$row['street_id']}">
+                        <div class="thumbnail-img thumbmode" style="width: 100%;overflow: hidden;">
+                            <span class="newimgborder"> 
+                            <img class="thumb-img" src="{$row['cover']}" alt="" />
+                            </span>
+                           
+                            <div style="width: 60%;float:right;overflow: hidden;margin: 0 10px;">
+                                <h3 style="text-align-last: left;margin: 0;" id="index_overflow"
+                                    title="{$row['title']}">
+                                    <a style="color: #385A9F;" class="hover-effect txtstyle"
+                                        href="{:U('StreetHistory/detail',array('id'=>$row['id']))}">{$row['title']}</a>
+                                </h3>
+                                
+                                <p class="newindextext">
+									
+                                    <!-- {:mb_substr(strip_tags(str_replace(" ","",htmlspecialchars_decode($row['content']))),0,100,"utf-8")}... -->
+                                    {:mb_substr(strip_tags(str_replace(array(" ","&nbsp;","&amp;"),"",htmlspecialchars_decode($row['content']))),0,100,"utf-8")}...
+                                </p>
+                                <p class="ppp" id="index_overflow"><a style="text-decoration:none;" class="pull-right"
+                                        href="{:U('StreetHistory/detail',array('id'=>$row['id']))}"><img
+                                            style="max-width: 25px;" src="/Public/Static/Home/img/eye.png">查看詳情</a></p>
+                            </div>
+                        </div>
+                    </li>
+                </volist>
+            </ul>
+            <!-- <div class="pagination pagination-large pagination-centered">
+                <ul>{$page}</ul>
+            </div> -->
+        </div>
+        <include file="common/page_right2" />
+    </div>
+    <!--/row-fluid-->
+</div>
+<!--/container-->
+<!--=== End Content Part ===-->
+<script type="text/javascript">
+    //右下角分享地址
+        var wz = "https://www.hollandshow.cn{:U('StreetHistory/index')}"       
+</script>
+<!--=== Footer ===-->
+<include file="common/footer" />

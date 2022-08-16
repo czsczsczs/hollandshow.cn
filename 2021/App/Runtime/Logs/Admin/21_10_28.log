@@ -1,0 +1,1211 @@
+[ 2021-10-28T03:59:41+08:00 ] 129.211.162.87 /Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001877s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000279s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000970s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2021-10-28T15:45:06+08:00 ] 219.131.243.220 /Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002115s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000294s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2021-10-28T15:45:06+08:00 ] 219.131.243.220 /Admin/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2021-10-28T15:45:14+08:00 ] 219.131.243.220 /Admin/Login/verify/1635407115741
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2021-10-28T15:45:14+08:00 ] 219.131.243.220 /Admin/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001930s ]
+
+[ 2021-10-28T15:45:22+08:00 ] 219.131.243.220 /Admin/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002002s ]
+SQL: SHOW COLUMNS FROM `hls_admin` [ RunTime:0.0235s ]
+SQL: SELECT * FROM `hls_admin` WHERE `password` = '027b015ad5829f6831006722d14520c7af215f15f5460182f66d877fdb9b15c2' AND `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /home/www/hollandshow.cn/ThinkPHP/Common/functions.php 第 1263 行.
+
+[ 2021-10-28T15:45:22+08:00 ] 219.131.243.220 /Admin/Login/verify/1635407123581
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000476s ]
+
+[ 2021-10-28T15:45:22+08:00 ] 219.131.243.220 /Admin/Login/logining.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001804s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005611s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2021-10-28T15:45:23+08:00 ] 219.131.243.220 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001787s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000309s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000416s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/9df924d9a2d217daa77a359c5bee0c33.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/9df924d9a2d217daa77a359c5bee0c33.php 第 81 行.
+NOTIC: [8] Undefined variable: exhibitor_count /home/www/hollandshow.cn/App/Runtime/Cache/Admin/9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined variable: speakers_count /home/www/hollandshow.cn/App/Runtime/Cache/Admin/9df924d9a2d217daa77a359c5bee0c33.php 第 212 行.
+NOTIC: [8] Undefined variable: session_count /home/www/hollandshow.cn/App/Runtime/Cache/Admin/9df924d9a2d217daa77a359c5bee0c33.php 第 213 行.
+NOTIC: [8] Undefined variable: page_count /home/www/hollandshow.cn/App/Runtime/Cache/Admin/9df924d9a2d217daa77a359c5bee0c33.php 第 214 行.
+NOTIC: [8] Undefined variable: user_count /home/www/hollandshow.cn/App/Runtime/Cache/Admin/9df924d9a2d217daa77a359c5bee0c33.php 第 215 行.
+NOTIC: [8] Undefined variable: dynamic_count /home/www/hollandshow.cn/App/Runtime/Cache/Admin/9df924d9a2d217daa77a359c5bee0c33.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000677s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000595s ]
+
+[ 2021-10-28T15:45:27+08:00 ] 219.131.243.220 /Admin/Shop/index/type/cate.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001944s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000324s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000432s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028603s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2021-10-28T15:45:36+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001985s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0008s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407136' WHERE ( id=126 ) [ RunTime:0.0250s ]
+
+[ 2021-10-28T15:45:36+08:00 ] 219.131.243.220 /Admin/Shop/index/type/cate.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001773s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000315s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000423s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028575s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000906s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001488s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2021-10-28T15:47:03+08:00 ] 219.131.243.220 /Admin/Shop/index/type/cate/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001928s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 10,10   [ RunTime:0.0021s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000301s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000805s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001242s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2021-10-28T15:47:08+08:00 ] 219.131.243.220 /Admin/Shop/index/type/cate/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001925s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 20,10   [ RunTime:0.0026s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000281s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025728s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000869s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2021-10-28T15:47:29+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E6%B8%85%E9%82%81&__hash__=cda361e5a8f518b64ca8f248f5a39068_f05c768f8e8ef34ac02b9470b76c9207
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002060s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0108s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%清邁%' OR a.title_cn LIKE '%清邁%' OR a.title_en LIKE '%清邁%' OR a.content LIKE '%清邁%' OR a.content_cn LIKE '%清邁%' OR a.content_en LIKE '%清邁%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%清邁%' OR a.title_cn LIKE '%清邁%' OR a.title_en LIKE '%清邁%' OR a.content LIKE '%清邁%' OR a.content_cn LIKE '%清邁%' OR a.content_en LIKE '%清邁%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000356s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000467s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027315s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027425s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000699s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2021-10-28T15:47:40+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002020s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407260' WHERE ( id=87 ) [ RunTime:0.0432s ]
+
+[ 2021-10-28T15:47:40+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E6%B8%85%E9%82%81&__hash__=cda361e5a8f518b64ca8f248f5a39068_f05c768f8e8ef34ac02b9470b76c9207
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001867s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%清邁%' OR a.title_cn LIKE '%清邁%' OR a.title_en LIKE '%清邁%' OR a.content LIKE '%清邁%' OR a.content_cn LIKE '%清邁%' OR a.content_en LIKE '%清邁%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%清邁%' OR a.title_cn LIKE '%清邁%' OR a.title_en LIKE '%清邁%' OR a.content LIKE '%清邁%' OR a.content_cn LIKE '%清邁%' OR a.content_en LIKE '%清邁%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000337s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000445s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026783s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026895s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000654s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2021-10-28T15:47:48+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E5%8C%97%E6%9C%AC&__hash__=2aa11ff83692aff2e6e526583ec82615_e87e9ab615a7e6bdd319055b6e5be3d2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001789s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%北本%' OR a.title_cn LIKE '%北本%' OR a.title_en LIKE '%北本%' OR a.content LIKE '%北本%' OR a.content_cn LIKE '%北本%' OR a.content_en LIKE '%北本%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%北本%' OR a.title_cn LIKE '%北本%' OR a.title_en LIKE '%北本%' OR a.content LIKE '%北本%' OR a.content_cn LIKE '%北本%' OR a.content_en LIKE '%北本%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000320s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000428s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025797s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000608s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2021-10-28T15:47:51+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002108s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0010s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407271' WHERE ( id=86 ) [ RunTime:0.0292s ]
+
+[ 2021-10-28T15:47:51+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E5%8C%97%E6%9C%AC&__hash__=2aa11ff83692aff2e6e526583ec82615_e87e9ab615a7e6bdd319055b6e5be3d2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%北本%' OR a.title_cn LIKE '%北本%' OR a.title_en LIKE '%北本%' OR a.content LIKE '%北本%' OR a.content_cn LIKE '%北本%' OR a.content_en LIKE '%北本%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%北本%' OR a.title_cn LIKE '%北本%' OR a.title_en LIKE '%北本%' OR a.content LIKE '%北本%' OR a.content_cn LIKE '%北本%' OR a.content_en LIKE '%北本%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000308s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025580s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2021-10-28T15:48:01+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=3cm&__hash__=3ab5a76543c59dd663e3184becf8e9e0_de422658e6a396fb7920c2a6c0c4dd6c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002056s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%3cm%' OR a.title_cn LIKE '%3cm%' OR a.title_en LIKE '%3cm%' OR a.content LIKE '%3cm%' OR a.content_cn LIKE '%3cm%' OR a.content_en LIKE '%3cm%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%3cm%' OR a.title_cn LIKE '%3cm%' OR a.title_en LIKE '%3cm%' OR a.content LIKE '%3cm%' OR a.content_cn LIKE '%3cm%' OR a.content_en LIKE '%3cm%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0019s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000336s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000443s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027016s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2021-10-28T15:48:04+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001918s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407284' WHERE ( id=32 ) [ RunTime:0.0284s ]
+
+[ 2021-10-28T15:48:05+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=3cm&__hash__=3ab5a76543c59dd663e3184becf8e9e0_de422658e6a396fb7920c2a6c0c4dd6c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001761s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%3cm%' OR a.title_cn LIKE '%3cm%' OR a.title_en LIKE '%3cm%' OR a.content LIKE '%3cm%' OR a.content_cn LIKE '%3cm%' OR a.content_en LIKE '%3cm%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%3cm%' OR a.title_cn LIKE '%3cm%' OR a.title_en LIKE '%3cm%' OR a.content LIKE '%3cm%' OR a.content_cn LIKE '%3cm%' OR a.content_en LIKE '%3cm%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000328s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000435s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000629s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2021-10-28T15:48:17+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E6%98%A5%E9%9B%A8&__hash__=557bd315aa4c0e0446e88157229f5448_1cc16816e731d4e9ece18f9d5cdc1b64
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002093s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%春雨%' OR a.title_cn LIKE '%春雨%' OR a.title_en LIKE '%春雨%' OR a.content LIKE '%春雨%' OR a.content_cn LIKE '%春雨%' OR a.content_en LIKE '%春雨%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%春雨%' OR a.title_cn LIKE '%春雨%' OR a.title_en LIKE '%春雨%' OR a.content LIKE '%春雨%' OR a.content_cn LIKE '%春雨%' OR a.content_en LIKE '%春雨%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000334s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000443s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000688s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2021-10-28T15:48:20+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001905s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0010s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407300' WHERE ( id=22 ) [ RunTime:0.0263s ]
+
+[ 2021-10-28T15:48:20+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E6%98%A5%E9%9B%A8&__hash__=557bd315aa4c0e0446e88157229f5448_1cc16816e731d4e9ece18f9d5cdc1b64
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001792s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%春雨%' OR a.title_cn LIKE '%春雨%' OR a.title_en LIKE '%春雨%' OR a.content LIKE '%春雨%' OR a.content_cn LIKE '%春雨%' OR a.content_en LIKE '%春雨%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%春雨%' OR a.title_cn LIKE '%春雨%' OR a.title_en LIKE '%春雨%' OR a.content LIKE '%春雨%' OR a.content_cn LIKE '%春雨%' OR a.content_en LIKE '%春雨%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000326s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000434s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025879s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2021-10-28T15:48:28+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=ca&__hash__=3f0f426fdcfbf7439bdbb8815af4ecd1_3322b49e504c5e4db34b00a3c8d973f4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001805s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%ca%' OR a.title_cn LIKE '%ca%' OR a.title_en LIKE '%ca%' OR a.content LIKE '%ca%' OR a.content_cn LIKE '%ca%' OR a.content_en LIKE '%ca%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%ca%' OR a.title_cn LIKE '%ca%' OR a.title_en LIKE '%ca%' OR a.content LIKE '%ca%' OR a.content_cn LIKE '%ca%' OR a.content_en LIKE '%ca%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0022s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000302s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000843s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2021-10-28T15:48:43+08:00 ] 219.131.243.220 /Admin/Shop/index/type/cate/keyword/ca/__hash__/3f0f426fdcfbf7439bdbb8815af4ecd1_3322b49e504c5e4db34b00a3c8d973f4/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002090s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%ca%' OR a.title_cn LIKE '%ca%' OR a.title_en LIKE '%ca%' OR a.content LIKE '%ca%' OR a.content_cn LIKE '%ca%' OR a.content_en LIKE '%ca%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%ca%' OR a.title_cn LIKE '%ca%' OR a.title_en LIKE '%ca%' OR a.content LIKE '%ca%' OR a.content_cn LIKE '%ca%' OR a.content_en LIKE '%ca%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 10,10   [ RunTime:0.0034s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000308s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028416s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000905s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2021-10-28T15:48:48+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001918s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0010s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407328' WHERE ( id=7 ) [ RunTime:0.0270s ]
+
+[ 2021-10-28T15:48:48+08:00 ] 219.131.243.220 /Admin/Shop/index/type/cate/keyword/ca/__hash__/3f0f426fdcfbf7439bdbb8815af4ecd1_3322b49e504c5e4db34b00a3c8d973f4/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001788s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%ca%' OR a.title_cn LIKE '%ca%' OR a.title_en LIKE '%ca%' OR a.content LIKE '%ca%' OR a.content_cn LIKE '%ca%' OR a.content_en LIKE '%ca%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%ca%' OR a.title_cn LIKE '%ca%' OR a.title_en LIKE '%ca%' OR a.content LIKE '%ca%' OR a.content_cn LIKE '%ca%' OR a.content_en LIKE '%ca%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 10,10   [ RunTime:0.0024s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000333s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000441s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028341s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000838s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2021-10-28T15:48:59+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=tom&__hash__=7d10bf3e3567946269db10ca8bdbfbdd_0683028079abfd01e785010d5429b0d8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002091s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%tom%' OR a.title_cn LIKE '%tom%' OR a.title_en LIKE '%tom%' OR a.content LIKE '%tom%' OR a.content_cn LIKE '%tom%' OR a.content_en LIKE '%tom%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%tom%' OR a.title_cn LIKE '%tom%' OR a.title_en LIKE '%tom%' OR a.content LIKE '%tom%' OR a.content_cn LIKE '%tom%' OR a.content_en LIKE '%tom%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0021s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000323s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000432s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027979s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000711s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2021-10-28T15:49:02+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001932s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0008s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407342' WHERE ( id=2 ) [ RunTime:0.0286s ]
+
+[ 2021-10-28T15:49:02+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=tom&__hash__=7d10bf3e3567946269db10ca8bdbfbdd_0683028079abfd01e785010d5429b0d8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001779s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%tom%' OR a.title_cn LIKE '%tom%' OR a.title_en LIKE '%tom%' OR a.content LIKE '%tom%' OR a.content_cn LIKE '%tom%' OR a.content_en LIKE '%tom%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%tom%' OR a.title_cn LIKE '%tom%' OR a.title_en LIKE '%tom%' OR a.content LIKE '%tom%' OR a.content_cn LIKE '%tom%' OR a.content_en LIKE '%tom%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0019s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000311s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025948s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026052s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000628s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2021-10-28T15:49:29+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E5%90%89&__hash__=d658d6cd4177d0dffa8f074d645b9e5b_19379eb378a8c736e89ccdc5dc202e61
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001982s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%吉%' OR a.title_cn LIKE '%吉%' OR a.title_en LIKE '%吉%' OR a.content LIKE '%吉%' OR a.content_cn LIKE '%吉%' OR a.content_en LIKE '%吉%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%吉%' OR a.title_cn LIKE '%吉%' OR a.title_en LIKE '%吉%' OR a.content LIKE '%吉%' OR a.content_cn LIKE '%吉%' OR a.content_en LIKE '%吉%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000306s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026108s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026212s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000721s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2021-10-28T15:49:33+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001908s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0008s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407373' WHERE ( id=112 ) [ RunTime:0.0240s ]
+
+[ 2021-10-28T15:49:33+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E5%90%89&__hash__=d658d6cd4177d0dffa8f074d645b9e5b_19379eb378a8c736e89ccdc5dc202e61
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001757s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%吉%' OR a.title_cn LIKE '%吉%' OR a.title_en LIKE '%吉%' OR a.content LIKE '%吉%' OR a.content_cn LIKE '%吉%' OR a.content_en LIKE '%吉%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%吉%' OR a.title_cn LIKE '%吉%' OR a.title_en LIKE '%吉%' OR a.content LIKE '%吉%' OR a.content_cn LIKE '%吉%' OR a.content_en LIKE '%吉%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000307s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000486s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026159s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000682s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001245s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2021-10-28T15:49:44+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E6%B0%B4%E6%9E%9C%E5%BA%97&__hash__=8e43504fd878fe6d1cdf0376127d45a6_53ea4dcd2e09340aa1c57bf0f08d6321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%水果店%' OR a.title_cn LIKE '%水果店%' OR a.title_en LIKE '%水果店%' OR a.content LIKE '%水果店%' OR a.content_cn LIKE '%水果店%' OR a.content_en LIKE '%水果店%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%水果店%' OR a.title_cn LIKE '%水果店%' OR a.title_en LIKE '%水果店%' OR a.content LIKE '%水果店%' OR a.content_cn LIKE '%水果店%' OR a.content_en LIKE '%水果店%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000211s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015436s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000199s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000261s ]
+
+[ 2021-10-28T15:49:46+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0006s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407386' WHERE ( id=108 ) [ RunTime:0.0273s ]
+
+[ 2021-10-28T15:49:46+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E6%B0%B4%E6%9E%9C%E5%BA%97&__hash__=8e43504fd878fe6d1cdf0376127d45a6_53ea4dcd2e09340aa1c57bf0f08d6321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%水果店%' OR a.title_cn LIKE '%水果店%' OR a.title_en LIKE '%水果店%' OR a.content LIKE '%水果店%' OR a.content_cn LIKE '%水果店%' OR a.content_en LIKE '%水果店%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%水果店%' OR a.title_cn LIKE '%水果店%' OR a.title_en LIKE '%水果店%' OR a.content LIKE '%水果店%' OR a.content_cn LIKE '%水果店%' OR a.content_en LIKE '%水果店%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014811s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000173s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000236s ]
+
+[ 2021-10-28T15:50:01+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E8%9C%80%E5%91%B3&__hash__=38191ba044139849600aab9e117df566_066c7afaff50a5061f4dc4f492cff46d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001950s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%蜀味%' OR a.title_cn LIKE '%蜀味%' OR a.title_en LIKE '%蜀味%' OR a.content LIKE '%蜀味%' OR a.content_cn LIKE '%蜀味%' OR a.content_en LIKE '%蜀味%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%蜀味%' OR a.title_cn LIKE '%蜀味%' OR a.title_en LIKE '%蜀味%' OR a.content LIKE '%蜀味%' OR a.content_cn LIKE '%蜀味%' OR a.content_en LIKE '%蜀味%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000343s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000450s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026852s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000464s ]
+
+[ 2021-10-28T15:50:05+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001956s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407405' WHERE ( id=107 ) [ RunTime:0.0286s ]
+
+[ 2021-10-28T15:50:05+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E8%9C%80%E5%91%B3&__hash__=38191ba044139849600aab9e117df566_066c7afaff50a5061f4dc4f492cff46d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001798s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%蜀味%' OR a.title_cn LIKE '%蜀味%' OR a.title_en LIKE '%蜀味%' OR a.content LIKE '%蜀味%' OR a.content_cn LIKE '%蜀味%' OR a.content_en LIKE '%蜀味%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%蜀味%' OR a.title_cn LIKE '%蜀味%' OR a.title_en LIKE '%蜀味%' OR a.content LIKE '%蜀味%' OR a.content_cn LIKE '%蜀味%' OR a.content_en LIKE '%蜀味%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000318s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000425s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026269s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000628s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2021-10-28T15:50:45+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E6%B4%A5&__hash__=abfe34ecdafc16f9210aeca142319623_a4a1d2347ea55eac1c199a683479dd1d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001937s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%津%' OR a.title_cn LIKE '%津%' OR a.title_en LIKE '%津%' OR a.content LIKE '%津%' OR a.content_cn LIKE '%津%' OR a.content_en LIKE '%津%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%津%' OR a.title_cn LIKE '%津%' OR a.title_en LIKE '%津%' OR a.content LIKE '%津%' OR a.content_cn LIKE '%津%' OR a.content_en LIKE '%津%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0019s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000306s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000651s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2021-10-28T15:50:50+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001899s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407450' WHERE ( id=106 ) [ RunTime:0.0295s ]
+
+[ 2021-10-28T15:50:50+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E6%B4%A5&__hash__=abfe34ecdafc16f9210aeca142319623_a4a1d2347ea55eac1c199a683479dd1d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001777s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%津%' OR a.title_cn LIKE '%津%' OR a.title_en LIKE '%津%' OR a.content LIKE '%津%' OR a.content_cn LIKE '%津%' OR a.content_en LIKE '%津%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%津%' OR a.title_cn LIKE '%津%' OR a.title_en LIKE '%津%' OR a.content LIKE '%津%' OR a.content_cn LIKE '%津%' OR a.content_en LIKE '%津%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000320s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000428s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000725s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2021-10-28T15:51:03+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E8%A0%94&__hash__=29b97a9bfc06c8b623708f7d8c86a872_3e4ae05397870b2e4271c42413bf245b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001912s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%蠔%' OR a.title_cn LIKE '%蠔%' OR a.title_en LIKE '%蠔%' OR a.content LIKE '%蠔%' OR a.content_cn LIKE '%蠔%' OR a.content_en LIKE '%蠔%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%蠔%' OR a.title_cn LIKE '%蠔%' OR a.title_en LIKE '%蠔%' OR a.content LIKE '%蠔%' OR a.content_cn LIKE '%蠔%' OR a.content_en LIKE '%蠔%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000320s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000427s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025984s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000666s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2021-10-28T15:51:05+08:00 ] 219.131.243.220 /Admin/Shop/edit/id/101/type/cate.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001802s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `hls_shop` WHERE `id` = 101 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `hls_files` [ RunTime:0.0009s ]
+SQL: SELECT `save_path`,`extension` FROM `hls_files` WHERE ( id=500 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `save_path`,`extension` FROM `hls_files` WHERE ( id=501 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `save_path`,`extension` FROM `hls_files` WHERE ( id=502 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000497s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000609s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/57b2e2b2f92365ac9be1e64a54275001.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/57b2e2b2f92365ac9be1e64a54275001.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000940s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2021-10-28T15:51:12+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001910s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407472' WHERE ( id=101 ) [ RunTime:0.0279s ]
+
+[ 2021-10-28T15:51:12+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E8%A0%94&__hash__=29b97a9bfc06c8b623708f7d8c86a872_3e4ae05397870b2e4271c42413bf245b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001871s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%蠔%' OR a.title_cn LIKE '%蠔%' OR a.title_en LIKE '%蠔%' OR a.content LIKE '%蠔%' OR a.content_cn LIKE '%蠔%' OR a.content_en LIKE '%蠔%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%蠔%' OR a.title_cn LIKE '%蠔%' OR a.title_en LIKE '%蠔%' OR a.content LIKE '%蠔%' OR a.content_cn LIKE '%蠔%' OR a.content_en LIKE '%蠔%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000310s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025974s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000631s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2021-10-28T15:51:25+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E6%B8%BC&__hash__=9653843b4474093112c32a79915564eb_ab0d703bba189c1973e4046cf99dae35
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002116s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%渼%' OR a.title_cn LIKE '%渼%' OR a.title_en LIKE '%渼%' OR a.content LIKE '%渼%' OR a.content_cn LIKE '%渼%' OR a.content_en LIKE '%渼%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%渼%' OR a.title_cn LIKE '%渼%' OR a.title_en LIKE '%渼%' OR a.content LIKE '%渼%' OR a.content_cn LIKE '%渼%' OR a.content_en LIKE '%渼%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000328s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000437s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027248s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027359s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000685s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001244s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2021-10-28T15:51:28+08:00 ] 219.131.243.220 /Admin/Shop/destroy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001925s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: UPDATE `hls_shop` SET `deleted`='1635407488' WHERE ( id=100 ) [ RunTime:0.0313s ]
+
+[ 2021-10-28T15:51:28+08:00 ] 219.131.243.220 /Admin/Shop/index.html?type=cate&status=&street_id=&keyword=%E6%B8%BC&__hash__=9653843b4474093112c32a79915564eb_ab0d703bba189c1973e4046cf99dae35
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001766s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `hls_street` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `hls_shop` [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%渼%' OR a.title_cn LIKE '%渼%' OR a.title_en LIKE '%渼%' OR a.content LIKE '%渼%' OR a.content_cn LIKE '%渼%' OR a.content_en LIKE '%渼%' ) AND a.deleted IS NULL AND a.type = 'cate' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT a.*,b.name as street_name FROM hls_shop as a  LEFT JOIN hls_street as b ON a.street_id = b.id  WHERE ( a.title LIKE '%渼%' OR a.title_cn LIKE '%渼%' OR a.title_en LIKE '%渼%' OR a.content LIKE '%渼%' OR a.content_cn LIKE '%渼%' OR a.content_en LIKE '%渼%' ) AND a.deleted IS NULL AND a.type = 'cate' ORDER BY created desc LIMIT 0,10   [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hls_street` WHERE `deleted` IS NULL ORDER BY created desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000310s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000416s ]
+NOTIC: [8] Undefined variable: title /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 4 行.
+NOTIC: [8] Undefined variable: token /home/www/hollandshow.cn/App/Runtime/Cache/Admin/d68ce727c8ebc1f81462aeabe3e52156.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000628s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+

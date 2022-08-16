@@ -1,0 +1,36 @@
+[ 2021-12-24T00:58:19+08:00 ] 40.77.167.99 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-24T00:58:20+08:00 ] 40.77.167.99 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-24T03:11:59+08:00 ] 138.246.253.24 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-24T03:42:47+08:00 ] 66.249.79.194 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-24T08:00:28+08:00 ] 2.58.149.35 /wp-includes/wp-atom.php
+ERR: Controller can't be loaded:Wp-includes
+
+[ 2021-12-24T10:05:18+08:00 ] 185.191.171.8 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-24T10:53:20+08:00 ] 185.191.171.12 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-24T11:30:15+08:00 ] 114.119.144.222 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-24T12:57:23+08:00 ] 185.191.34.215 /index3.php
+ERR: Controller can't be loaded:Index3.php
+
+[ 2021-12-24T17:47:53+08:00 ] 114.119.145.175 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-24T17:57:06+08:00 ] 66.249.79.194 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-24T22:44:06+08:00 ] 54.36.148.48 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+

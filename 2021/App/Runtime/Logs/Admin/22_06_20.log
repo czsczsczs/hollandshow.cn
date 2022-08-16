@@ -1,0 +1,33 @@
+[ 2022-06-20T16:59:19+08:00 ] 120.197.198.60 /2021/index.php/Admin/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002396s ]
+SQL: SHOW COLUMNS FROM `hls_admin` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `hls_admin` WHERE `password` = '027b015ad5829f6831006722d14520c7af215f15f5460182f66d877fdb9b15c2' AND `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /home/www/hollandshow.cn/2021/ThinkPHP/Common/functions.php 第 1263 行.
+
+[ 2022-06-20T16:59:28+08:00 ] 120.197.198.60 /2021/index.php/Admin/Media2/destroy.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002317s ]
+SQL: SHOW COLUMNS FROM `hls_media2` [ RunTime:0.0015s ]
+SQL: UPDATE `hls_media2` SET `deleted`='1655715568' WHERE ( id=43 ) [ RunTime:0.0245s ]
+
+[ 2022-06-20T16:59:30+08:00 ] 120.197.198.60 /2021/index.php/Admin/Media2/destroy.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002017s ]
+SQL: SHOW COLUMNS FROM `hls_media2` [ RunTime:0.0014s ]
+SQL: UPDATE `hls_media2` SET `deleted`='1655715570' WHERE ( id=42 ) [ RunTime:0.0246s ]
+
+[ 2022-06-20T16:59:34+08:00 ] 120.197.198.60 /2021/index.php/Admin/Media2/destroy.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002208s ]
+SQL: SHOW COLUMNS FROM `hls_media2` [ RunTime:0.0014s ]
+SQL: UPDATE `hls_media2` SET `deleted`='1655715574' WHERE ( id=41 ) [ RunTime:0.0292s ]
+

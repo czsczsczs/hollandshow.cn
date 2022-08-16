@@ -1,0 +1,39 @@
+[ 2021-11-27T01:56:22+08:00 ] 17.121.112.32 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-27T03:57:45+08:00 ] 51.222.253.13 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-27T06:52:24+08:00 ] 66.249.79.194 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-27T09:01:14+08:00 ] 138.128.118.130 /robots.txt
+ERR: Controller can't be loaded:Robots.txt
+
+[ 2021-11-27T09:01:16+08:00 ] 138.128.118.130 /ads.txt
+ERR: Controller can't be loaded:Ads.txt
+
+[ 2021-11-27T12:07:52+08:00 ] 185.191.171.6 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-27T13:12:09+08:00 ] 60.205.176.89 /sitemap.xml
+ERR: 無法載入控制器:Sitemap.xml
+
+[ 2021-11-27T13:12:09+08:00 ] 60.205.176.89 /sitemap.txt
+ERR: 無法載入控制器:Sitemap.txt
+
+[ 2021-11-27T15:37:32+08:00 ] 185.191.34.215 /wp_wrong_datlib.php
+ERR: Controller can't be loaded:Wp_wrong_datlib.php
+
+[ 2021-11-27T16:50:13+08:00 ] 114.119.143.119 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-27T19:08:35+08:00 ] 66.249.79.197 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-27T19:59:27+08:00 ] 54.36.149.0 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-27T20:28:31+08:00 ] 114.119.144.176 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+

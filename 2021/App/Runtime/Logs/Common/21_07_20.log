@@ -1,0 +1,24 @@
+[ 2021-07-20T13:26:01+08:00 ] 59.62.124.21 //index.php?m=wap&siteid=1%E2%80%8B
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+ERR: 無法載入模組:Wap
+
+[ 2021-07-20T13:26:01+08:00 ] 59.62.124.21 //index.php?m=wap&siteid=1%E2%80%8B
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+ERR: 無法載入模組:Wap
+
+[ 2021-07-20T13:26:01+08:00 ] 59.62.124.21 //index.php?m=attachment&c=attachments&a=swfupload_json&src=%26i=1%26d=11%26catid=1%26t=23232%26ip=127.0.0.1%26m=3%26modelid=1%26s=caches%252fconfigs%252fdatabase.ph%26f=p%26xxxx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+ERR: 無法載入模組:Attachment
+
+[ 2021-07-20T13:26:01+08:00 ] 59.62.124.21 //index.php?m=attachment&c=attachments&a=swfupload_json&src=%26i=1%26d=11%26catid=1%26t=23232%26ip=127.0.0.1%26m=3%26modelid=1%26s=caches%252fconfigs%252fsystem.ph%26f=p%26xxxx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+ERR: 無法載入模組:Attachment
+

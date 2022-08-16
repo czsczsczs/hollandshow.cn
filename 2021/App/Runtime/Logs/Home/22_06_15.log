@@ -1,0 +1,28 @@
+[ 2022-06-15T15:33:34+08:00 ] 219.131.240.86 /2021/index.php/Controller/NewsController.class.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002353s ]
+ERR: 無法載入控制器:Controller
+
+[ 2022-06-15T15:40:35+08:00 ] 219.131.240.86 /2021/index.php/Controller/NewsController.class.php?q=804,452,804,452
+ERR: 無法載入控制器:Controller
+
+[ 2022-06-15T15:41:12+08:00 ] 219.131.240.86 /2021/index.php/News/NewsController.class.php?q=804,452,804,452
+ERR: 非法操作:NewsController.class.php
+
+[ 2022-06-15T15:41:34+08:00 ] 219.131.240.86 /2021/index.php/Controller/NewsController.class.php?q=804,452,804,452
+ERR: 無法載入控制器:Controller
+
+[ 2022-06-15T16:32:30+08:00 ] 219.131.240.86 /2021/index.php/Controller/NewsController.class.php?q=804,452,804,452
+ERR: 無法載入控制器:Controller
+
+[ 2022-06-15T16:32:47+08:00 ] 219.131.240.86 /2021/index.php/Active/index.html804,452,804,452
+ERR: 非法操作:index.html804,452,804,452
+
+[ 2022-06-15T16:33:23+08:00 ] 219.131.240.86 /2021/index.php/News/index.html804,452,804,452
+ERR: 非法操作:index.html804,452,804,452
+
+[ 2022-06-15T16:46:17+08:00 ] 219.131.240.86 /2021/index.php/News/index.html
+ERR: XML標籤語法錯誤 : condition="$'<script
+

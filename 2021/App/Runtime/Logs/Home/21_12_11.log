@@ -1,0 +1,18 @@
+[ 2021-12-11T04:14:27+08:00 ] 185.191.34.215 /assets/images/moduless.php
+ERR: Controller can't be loaded:Assets
+
+[ 2021-12-11T04:51:14+08:00 ] 51.222.253.15 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-11T07:45:51+08:00 ] 51.222.253.12 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-11T11:05:21+08:00 ] 66.249.79.197 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-11T17:04:55+08:00 ] 17.58.117.147 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-11T22:13:00+08:00 ] 114.119.139.181 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+

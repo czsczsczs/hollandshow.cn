@@ -1,0 +1,60 @@
+[ 2022-01-03T00:34:14+08:00 ] 66.249.79.194 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-03T01:37:38+08:00 ] 114.119.149.66 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-03T03:58:24+08:00 ] 207.46.13.192 /public/static/home/js/qrcodebox-master/qrcodebox/js/qrcode.js
+ERR: 無法載入控制器:Public
+
+[ 2022-01-03T07:14:13+08:00 ] 185.191.171.41 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-03T09:51:22+08:00 ] 114.119.140.179 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-03T13:54:16+08:00 ] 3.87.192.127 /.git/config
+ERR: 無法載入控制器:.git
+
+[ 2022-01-03T14:37:35+08:00 ] 54.36.149.38 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-03T16:28:51+08:00 ] 66.249.79.194 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-03T16:51:39+08:00 ] 54.36.149.74 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-03T18:27:23+08:00 ] 88.214.43.164 /~app/.env
+ERR: 無法載入控制器:~app
+
+[ 2022-01-03T18:54:36+08:00 ] 114.119.148.163 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-03T18:58:33+08:00 ] 213.238.178.239 /src/app.js
+ERR: 無法載入控制器:Src
+
+[ 2022-01-03T20:20:57+08:00 ] 94.102.15.53 /_app/.env
+ERR: 無法載入控制器:_app
+
+[ 2022-01-03T22:13:38+08:00 ] 212.47.230.224 /streethistory/detail/id/28.html
+ERR: Controller can't be loaded:Streethistory
+
+[ 2022-01-03T22:15:51+08:00 ] 51.15.251.7 /streethistory/detail/id/25.html
+ERR: Controller can't be loaded:Streethistory
+
+[ 2022-01-03T22:16:02+08:00 ] 51.158.75.88 /streethistory/detail/id/23.html
+ERR: Controller can't be loaded:Streethistory
+
+[ 2022-01-03T22:17:17+08:00 ] 212.47.245.80 /streethistory/detail/id/6.html
+ERR: Controller can't be loaded:Streethistory
+
+[ 2022-01-03T22:54:46+08:00 ] 185.191.171.40 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-03T23:03:45+08:00 ] 40.77.167.103 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2022-01-03T23:03:46+08:00 ] 40.77.167.103 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+

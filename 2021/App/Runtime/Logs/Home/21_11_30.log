@@ -1,0 +1,57 @@
+[ 2021-11-30T00:06:17+08:00 ] 23.29.115.184 /.env
+ERR: 無法載入控制器:.env
+
+[ 2021-11-30T02:15:08+08:00 ] 51.222.253.10 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-30T02:25:16+08:00 ] 95.91.75.28 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-30T04:22:19+08:00 ] 51.222.253.11 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-30T07:27:23+08:00 ] 207.46.13.232 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-30T07:27:24+08:00 ] 207.46.13.232 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-30T08:19:46+08:00 ] 144.76.200.68 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-30T09:25:32+08:00 ] 66.249.79.199 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-30T10:16:08+08:00 ] 219.131.240.134 /Public/Static/Home/plugins/swiper/swiper.min.js.map
+ERR: 無法載入控制器:Public
+
+[ 2021-11-30T10:35:33+08:00 ] 114.119.131.197 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-30T11:22:33+08:00 ] 219.131.240.134 /Public/Static/Home/js/jquery.min.map
+ERR: 無法載入控制器:Public
+
+[ 2021-11-30T11:22:33+08:00 ] 219.131.240.134 /Public/Static/Home/plugins/swiper/swiper.min.js.map
+ERR: 無法載入控制器:Public
+
+[ 2021-11-30T15:15:14+08:00 ] 167.114.209.104 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-30T16:30:49+08:00 ] 23.29.115.184 /.env
+ERR: 無法載入控制器:.env
+
+[ 2021-11-30T17:15:54+08:00 ] 219.131.240.134 /Public/Static/Home/js/jquery.min.map
+ERR: 無法載入控制器:Public
+
+[ 2021-11-30T19:00:14+08:00 ] 17.121.113.234 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-30T19:16:22+08:00 ] 185.191.34.215 /s_ne.php
+ERR: Controller can't be loaded:S_ne.php
+
+[ 2021-11-30T20:37:47+08:00 ] 114.119.143.151 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-11-30T21:37:36+08:00 ] 66.249.79.194 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+

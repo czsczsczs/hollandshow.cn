@@ -1,0 +1,69 @@
+[ 2021-12-02T01:52:41+08:00 ] 114.119.131.131 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-02T02:52:41+08:00 ] 207.46.13.232 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-02T02:52:41+08:00 ] 207.46.13.232 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-02T02:52:47+08:00 ] 157.55.39.188 /public/static/home/plugins/portfoliosorting/js/sorting.js
+ERR: 無法載入控制器:Public
+
+[ 2021-12-02T02:53:17+08:00 ] 157.55.39.22 /public/static/home/plugins/bootstrap/js/bootstrap.min.js
+ERR: 無法載入控制器:Public
+
+[ 2021-12-02T12:26:04+08:00 ] 66.249.79.197 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-02T12:45:11+08:00 ] 207.46.13.232 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-02T12:45:11+08:00 ] 207.46.13.232 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-02T15:28:39+08:00 ] 47.101.219.5 /explicit_not_exist_path
+ERR: 無法載入控制器:Explicit_not_exist_path
+
+[ 2021-12-02T15:28:41+08:00 ] 47.101.219.5 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-02T15:28:41+08:00 ] 47.101.219.5 /index.php/explicit_not_exist_path
+ERR: 無法載入控制器:Explicit_not_exist_path
+
+[ 2021-12-02T15:28:41+08:00 ] 47.101.219.5 /static/.gitignore
+ERR: 無法載入控制器:Static
+
+[ 2021-12-02T15:28:41+08:00 ] 47.101.219.5 /cgi-bin/printenv.pl
+ERR: 無法載入控制器:Cgi-bin
+
+[ 2021-12-02T15:28:42+08:00 ] 47.101.219.5 /phpMyAdmin/
+ERR: 無法載入控制器:PhpMyAdmin
+
+[ 2021-12-02T15:28:42+08:00 ] 47.101.219.5 /phpmyadmin/
+ERR: 無法載入控制器:Phpmyadmin
+
+[ 2021-12-02T15:28:42+08:00 ] 47.101.219.5 /wcm/
+ERR: 無法載入控制器:Wcm
+
+[ 2021-12-02T15:49:24+08:00 ] 54.36.149.55 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-02T16:02:46+08:00 ] 144.76.7.79 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-02T16:37:49+08:00 ] 148.251.244.137 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-02T16:48:36+08:00 ] 54.36.149.59 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-02T21:36:08+08:00 ] 185.191.171.18 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-02T21:36:12+08:00 ] 185.191.171.4 /sitemap.xml
+ERR: 無法載入控制器:Sitemap.xml
+
+[ 2021-12-02T23:25:13+08:00 ] 114.119.136.221 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+

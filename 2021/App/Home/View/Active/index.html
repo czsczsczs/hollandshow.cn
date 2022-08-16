@@ -1,0 +1,149 @@
+<include file="common/header" />
+<!--=== End Header ===-->
+<style>
+    .ji{
+            width: 66px;
+        }
+   .newul{
+        padding: 0;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        top: 0;
+   }
+   .breadcrumbs{
+       height: auto;
+   }
+   .container{
+       padding: 0!important;
+   }
+   .thumbnail-style{
+    padding: 15px !important;
+   }
+   .row-fluid .activity .span3{
+        margin-right: unset !important;
+   }
+
+
+       .thumbnails{
+           display: flex;
+           flex-wrap: wrap;
+           justify-content: center;
+       }
+        .thumbnail-kenburn .thumbnail-img img{
+            width: 110%;
+            max-width: 110% !important;
+        }
+        .activemodel{
+            border: 1px solid #ccc;
+            width: 70%;
+            margin: 0 auto;
+            margin-top: -50px;
+            padding-left: 15px;
+            padding-right: 15px;
+            position: relative;
+            background: white;
+            box-shadow: 3px 3px 5px #8888886b;
+        }
+
+        .thumbnail-kenburn .thumbnail-img{
+            overflow: hidden;
+            height: 340px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        @media (max-width: 1199px) and (min-width: 979px){
+            .thumbnail-kenburn .thumbnail-img{
+                height: 300px;
+            }
+            .row-fluid .activity .span3 {
+                width: 410px !important;
+            }
+            .thumbnail-kenburn .thumbnail-img img {
+                width: 120%;
+                max-width: 120% !important;
+            }
+        }
+        @media (max-width: 979px) and (min-width: 768px){
+            .thumbnail-kenburn .thumbnail-img{
+                height: 240px;
+            }
+            .row-fluid .activity .span3 {
+                width: 330px !important;
+            }
+        }
+        @media (max-width: 767px) and (min-width: 551px){
+            .thumbnail-kenburn .thumbnail-img{
+                height: 380px;
+            }
+           
+        }
+        @media (max-width: 550px) {
+            .thumbnail-kenburn .thumbnail-img{
+                height: 300px;
+            }
+           
+        }
+
+
+</style>
+<!--=== Breadcrumbs ===-->
+<div class="breadcrumbs margin-bottom-40">
+	<div class="container" >
+        <!-- <h1 class="color-green pull-left">Portfolio</h1> -->
+        <ul class="pull-left breadcrumb newul">
+            <li><img class="ji" src="/Public/Static/Home/img/ji.png"/></li>		
+            <li><a href="{:U('Index/index')}">首頁</a> <span class="divider">/</span></li>
+            <li class="{:U('Active/index')}">巡禮活動</li>
+        </ul>
+    </div><!--/container-->
+</div><!--/breadcrumbs-->
+<!--=== End Breadcrumbs ===-->
+
+<!--=== Content Part ===-->
+<div class="container"> 	
+	<div class="row-fluid"> 
+        <div id="w"> 
+            <ul class="thumbnails activity ulc">
+                <volist name="list" id="row">
+            	<li class="span3" link="{:U('Active/detail',array('id'=>$row['id']))}" >
+            		<div class="thumbnail-style thumbnail-kenburn">
+            			<div class="thumbnail-img">
+            				
+                                <img  src="{$row['cover']}" alt="" />
+                          
+            				<!-- <a class="btn-more hover-effect" href="{:U('Active/detail',array('id'=>$row['id']))}">閱讀更多+</a>					 -->
+            			</div>
+                        <div class="activemodel">
+            			<h3 style=" white-space: nowrap;overflow: hidden;text-overflow: ellipsis;">
+            				<a class="hover-effect" href="{:U('Active/detail',array('id'=>$row['id']))}" title="{$row['title']}">{$row['title']}</a>
+            			</h3>
+                        <if condition="$row['time']">
+            			<p style="color: #385A9F;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;">活動時間：</p>
+                        <p >{$row['time']}</p>
+                        <else/>
+                        <p>活動時間:無</p>
+                        </if>
+            			<p style="color: #385A9F;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;">活動地點：</p>
+                        <p>{$row['address']}</p>
+                    </div>
+            		</div>
+            	</li>
+                </volist>
+            </ul><!--/thumbnails-->
+            <div class="pagination pagination-large pagination-centered">
+                <ul>{$page}</ul>
+            </div>
+        </div>                
+    </div><!--/row-fluid-->         
+</div><!--/container-->	 	
+<!--=== End Content Part ===-->
+<script type="text/javascript">
+	var wz = "https://www.hollandshow.cn{:U('Active/index')}"
+    
+
+</script>
+<!--=== Footer ===-->
+<include file="common/footer" />

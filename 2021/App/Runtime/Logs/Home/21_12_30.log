@@ -1,0 +1,33 @@
+[ 2021-12-30T00:02:55+08:00 ] 66.249.79.197 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-30T00:16:50+08:00 ] 51.222.253.2 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-30T01:24:09+08:00 ] 185.191.34.215 /cgi-bin/menu_settings.php
+ERR: Controller can't be loaded:Cgi-bin
+
+[ 2021-12-30T03:01:52+08:00 ] 185.191.34.215 /cache/index3.php
+ERR: Controller can't be loaded:Cache
+
+[ 2021-12-30T04:27:20+08:00 ] 51.222.253.10 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-30T05:07:08+08:00 ] 114.119.141.30 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-30T12:34:09+08:00 ] 66.249.79.194 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-30T13:12:18+08:00 ] 114.119.128.19 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-30T20:25:15+08:00 ] 40.77.167.103 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-30T20:25:16+08:00 ] 40.77.167.103 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
+[ 2021-12-30T22:04:07+08:00 ] 114.119.138.35 /robots.txt
+ERR: 無法載入控制器:Robots.txt
+
